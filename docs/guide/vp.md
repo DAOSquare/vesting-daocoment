@@ -1,6 +1,6 @@
 ## About Vesting
 
-The Vesting module realizes the release link of the project’s token in the incubator, which can help the project distribute tokens to investors more flexibly and safely according to the release rules stipulated in the agreement. 
+The Vesting module realizes the release link of the project’s token in the incubator, which can help the project distribute tokens to investors more flexibly and safely according to the release rules stipulated in the protocol. 
 
 ## How to Participate in Vesting?
 
