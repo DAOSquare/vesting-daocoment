@@ -11,7 +11,7 @@ module.exports = {
     },
     '/zh/': {
       lang: 'zh-CN',
-      title: 'VuePress',
+      title: 'DAOSquare',
       description: "DAOSquare's Vesting",
     },
   },
