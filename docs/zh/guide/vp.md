@@ -4,7 +4,7 @@ Vesting 模块实现了孵化器中项目方 Token 的释放环节，可以更�
 
 ## 如何参与Vesting？
 
-持有Passport和Cafeteria NFT的正式社区成员。
+2022 年 4 月 14 日-5 月 14 日，我们开启了 Vesting 模块的公开测试，在活动期间，任何持有 Passport 或 Cafeteria NFT的社区成员均可参与。
 
 NFT获取地址： [dkp.land](https://www.dkp.land/#/)
 
