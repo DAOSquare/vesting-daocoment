@@ -6,11 +6,11 @@
    
 3. 选择Gnosis网络。
 
-4. 如果你有Passport和Cafeteria NFT，你可以看到My investment中的内容。点击条目即可跳转到该页面。
+4. 持有Passport 或 Cafeteria NFT，你可以看到My investment中的内容。点击条目即可跳转到该页面。
    
 ![An image](/images/1.png)
 
-5. 点击 "Claim All" 按钮.
+5. 当你在该项目中有多张份额 NFT 时，你也可以点击 "Claim all" 来一次性领取你所有份额 NFT 的可领取 Token。
 
 ![An image](/images/2.png)
 
