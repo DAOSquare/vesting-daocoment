@@ -4,7 +4,7 @@ The Vesting module realizes the release link of the project’s token in the inc
 
 ## How to Participate in Vesting?
 
-Full community member holding Passport and Cafeteria NFT.
+From April 14-May 14, 2022, we kicked off an open beta test of the Vesting module, during which any community member with a Passport or Cafeteria NFT could participate.
 
 NFT access address: [dkp.land](https://www.dkp.land/#/)
 
